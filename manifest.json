@@ -1,0 +1,11 @@
+{
+    "display_name": "프롬프트 복원기 (Prompt Restorer)",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "a0b0c",
+    "version": "4.0.0",
+    "auto_update": false
+}
